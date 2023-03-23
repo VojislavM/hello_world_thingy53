@@ -7,7 +7,9 @@ Overview
 ********
 
 A simple sample that can be used with any :ref:`supported board <boards>` and
-prints "Hello World" to the console.
+prints "Hello World" to the console. Works with thingy 53 printing the console output on the uart with pins 0.04 and 0.05 that are rooted to external connectors
+
+`built with NCS 1.9.1`
 
 Building and Running
 ********************
